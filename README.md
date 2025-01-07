@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <div>
-    <a target="_blank" href="https://www.loom.com/share/020e1062a6f24e5c8fda6a61c8d5015d">
+    <a href="https://www.loom.com/share/020e1062a6f24e5c8fda6a61c8d5015d" target="_blank">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/020e1062a6f24e5c8fda6a61c8d5015d-e0879cea168d1404-full-play.gif">
     </a>
   </div>
